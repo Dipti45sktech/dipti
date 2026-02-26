@@ -1,2 +1,2 @@
-print("cli commands ")
-print ("i want to make chnages ")
+print("git commands ")
+print ("I want to make changes. ")
